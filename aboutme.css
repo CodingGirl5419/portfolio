@@ -1,0 +1,13 @@
+body {
+    background-image: url("Daisy.jpeg");
+}
+
+
+h1 {
+    color: purple;
+    font-family: verdana;
+}
+p {
+    color: red;
+    font-family: verdana;
+}
